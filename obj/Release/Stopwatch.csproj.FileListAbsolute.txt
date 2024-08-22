@@ -1,0 +1,10 @@
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Release\Stopwatch.exe.config
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Release\Stopwatch.exe
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Release\Stopwatch.pdb
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.Form1.resources
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.Properties.Resources.resources
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.exe
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Release\Stopwatch.pdb

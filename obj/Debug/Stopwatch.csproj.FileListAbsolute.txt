@@ -1,0 +1,20 @@
+C:\Users\Toan\source\repos\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Toan\source\repos\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Toan\source\repos\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Toan\source\repos\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Toan\OneDrive\Máy tính\Stopwatch\obj\Debug\Stopwatch.pdb
